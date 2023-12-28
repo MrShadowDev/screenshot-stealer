@@ -1,4 +1,4 @@
-# Screenshot-Steale
+# Screenshot-Stealer
 Using Lightshot, bruteforce the screenshots saved on prnt.sc and send them to a Discord Webhook.
 **Disclaimer**: 
 This repository is exclusively intended for educational use. It illustrates the possible operation of a brute-force URL generator. It is against the law and unethical to use such scripts for data scraping, unauthorized access, or any other evil purpose. Before experimenting, always get permission, and never abuse your knowledge.
