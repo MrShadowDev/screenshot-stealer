@@ -8,7 +8,7 @@ This script shows how to generate URLs using a brute-force approach. It is an in
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/RocketGod-git/screenshot-stealer
+   git clone https://github.com/MrShadowDev/screenshot-stealer
    ```
 
 2. **Install the requirements**
